@@ -24,7 +24,7 @@ if (flutterVersionName == null) {
 
 android {
     namespace "com.example.track_absence_sample_by_geolocator"
-    compileSdk 34
+    compileSdk 35
     ndkVersion flutter.ndkVersion
 
     compileOptions {
